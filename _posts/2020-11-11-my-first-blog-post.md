@@ -1,3 +1,7 @@
+---
+title: "what i've learnded about GitHub pages"
+date: 2020-11-12
+
 # **What I've learned about GitHub pages**
 
 Github pages are an easy way to get you ideas on the web. You can make **documents, resumes, pages,** and much more. 
