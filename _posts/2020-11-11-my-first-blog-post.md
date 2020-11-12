@@ -1,6 +1,7 @@
 ---
 title: "what i've learnded about GitHub pages"
 date: 2020-11-12
+---
 
 # **What I've learned about GitHub pages**
 
